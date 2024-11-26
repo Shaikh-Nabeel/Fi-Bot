@@ -2,7 +2,7 @@
 
 <p> A ChatBot built using LLM (gemini) that work as financial advisor, it predict the stock market give financial advises, cover almost every sector of finance like banking, taxes, loans and even personal finance. it track user expenses and note it down on mongodb. On demand it provide monthly report to the user of their transaction and remaining budget. </p>
 
-<h2> Working <h2>
+<h2> Working of ChatBot: </h2>
     <ul>
         <li>This chatbot uses two fine tuned models trained using specific datasets.</li>
         <li>One predicts stock market trends & give financial advises and the other one track user expense & give reports.</li>
