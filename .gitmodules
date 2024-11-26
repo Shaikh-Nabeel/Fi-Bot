@@ -1,0 +1,6 @@
+[submodule "bot-backend"]
+	path = bot-backend
+	url = https://github.com/Shaikh-Nabeel/bot-backend
+[submodule "Fi-Bot-frontend"]
+	path = Fi-Bot-frontend
+	url = https://github.com/Shaikh-Nabeel/Fi-Bot-frontend
